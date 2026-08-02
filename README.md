@@ -17,6 +17,7 @@ solving a problem in a leetcode or platform
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0043-multiply-strings) |
 | [0877-stone-game](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0877-stone-game) |
 ## Dynamic Programming
 |  |
@@ -52,6 +53,7 @@ solving a problem in a leetcode or platform
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0043-multiply-strings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -64,4 +66,8 @@ solving a problem in a leetcode or platform
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0042-trapping-rain-water) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->

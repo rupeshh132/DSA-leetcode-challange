@@ -11,6 +11,7 @@ solving a problem in a leetcode or platform
 | [0037-sudoku-solver](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0041-first-missing-positive) |
 | [0877-stone-game](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0877-stone-game) |
 ## Math
 |  |
@@ -33,6 +34,7 @@ solving a problem in a leetcode or platform
 | ------- |
 | [0036-valid-sudoku](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0041-first-missing-positive) |
 ## Matrix
 |  |
 | ------- |

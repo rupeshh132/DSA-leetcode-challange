@@ -40,4 +40,8 @@ solving a problem in a leetcode or platform
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0037-sudoku-solver) |
+## String
+|  |
+| ------- |
+| [0038-count-and-say](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0038-count-and-say) |
 <!---LeetCode Topics End-->

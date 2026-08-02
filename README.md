@@ -12,6 +12,7 @@ solving a problem in a leetcode or platform
 | [0039-combination-sum](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0042-trapping-rain-water) |
 | [0877-stone-game](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0877-stone-game) |
 ## Math
 |  |
@@ -20,6 +21,7 @@ solving a problem in a leetcode or platform
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0042-trapping-rain-water) |
 | [0877-stone-game](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
@@ -50,4 +52,16 @@ solving a problem in a leetcode or platform
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0038-count-and-say) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->

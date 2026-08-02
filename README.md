@@ -14,6 +14,7 @@ solving a problem in a leetcode or platform
 | [0041-first-missing-positive](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0046-permutations) |
 | [0877-stone-game](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0877-stone-game) |
 ## Math
 |  |
@@ -52,6 +53,7 @@ solving a problem in a leetcode or platform
 | [0037-sudoku-solver](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0046-permutations) |
 ## String
 |  |
 | ------- |

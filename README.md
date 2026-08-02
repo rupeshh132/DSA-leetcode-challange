@@ -6,6 +6,7 @@ solving a problem in a leetcode or platform
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0035-search-insert-position) |
 | [0877-stone-game](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0877-stone-game) |
 ## Math
 |  |
@@ -19,4 +20,8 @@ solving a problem in a leetcode or platform
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0877-stone-game) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->

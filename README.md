@@ -15,6 +15,7 @@ solving a problem in a leetcode or platform
 | [0042-trapping-rain-water](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0047-permutations-ii) |
 | [0877-stone-game](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0877-stone-game) |
 ## Math
 |  |
@@ -54,6 +55,7 @@ solving a problem in a leetcode or platform
 | [0039-combination-sum](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0047-permutations-ii) |
 ## String
 |  |
 | ------- |
@@ -85,4 +87,8 @@ solving a problem in a leetcode or platform
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0044-wildcard-matching) |
+## Sorting
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->

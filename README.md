@@ -7,6 +7,7 @@ solving a problem in a leetcode or platform
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0036-valid-sudoku) |
 | [0877-stone-game](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0877-stone-game) |
 ## Math
 |  |
@@ -24,4 +25,12 @@ solving a problem in a leetcode or platform
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0035-search-insert-position) |
+## Hash Table
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0036-valid-sudoku) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->

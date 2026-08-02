@@ -23,6 +23,7 @@ solving a problem in a leetcode or platform
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0044-wildcard-matching) |
 | [0877-stone-game](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
@@ -54,6 +55,7 @@ solving a problem in a leetcode or platform
 | ------- |
 | [0038-count-and-say](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0044-wildcard-matching) |
 ## Two Pointers
 |  |
 | ------- |
@@ -70,4 +72,12 @@ solving a problem in a leetcode or platform
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0043-multiply-strings) |
+## Greedy
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0044-wildcard-matching) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->

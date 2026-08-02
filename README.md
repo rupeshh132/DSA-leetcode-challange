@@ -16,11 +16,13 @@ solving a problem in a leetcode or platform
 | [0045-jump-game-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0048-rotate-image) |
 | [0877-stone-game](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0877-stone-game) |
 ## Math
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0048-rotate-image) |
 | [0877-stone-game](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0877-stone-game) |
 ## Dynamic Programming
 |  |
@@ -48,6 +50,7 @@ solving a problem in a leetcode or platform
 | ------- |
 | [0036-valid-sudoku](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0048-rotate-image) |
 ## Backtracking
 |  |
 | ------- |

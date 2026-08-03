@@ -20,6 +20,7 @@ solving a problem in a leetcode or platform
 | [0049-group-anagrams](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0054-spiral-matrix) |
 | [0877-stone-game](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0877-stone-game) |
 ## Math
 |  |
@@ -57,6 +58,7 @@ solving a problem in a leetcode or platform
 | [0036-valid-sudoku](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0054-spiral-matrix) |
 ## Backtracking
 |  |
 | ------- |
@@ -90,6 +92,7 @@ solving a problem in a leetcode or platform
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0054-spiral-matrix) |
 ## Greedy
 |  |
 | ------- |

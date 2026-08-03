@@ -33,6 +33,7 @@ solving a problem in a leetcode or platform
 | [0048-rotate-image](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0062-unique-paths) |
 | [0877-stone-game](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0877-stone-game) |
 ## Dynamic Programming
 |  |
@@ -42,6 +43,7 @@ solving a problem in a leetcode or platform
 | [0045-jump-game-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0062-unique-paths) |
 | [0877-stone-game](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
@@ -138,4 +140,8 @@ solving a problem in a leetcode or platform
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0061-rotate-list) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->

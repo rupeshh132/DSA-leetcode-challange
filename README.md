@@ -88,6 +88,7 @@ solving a problem in a leetcode or platform
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0061-rotate-list) |
 ## Stack
 |  |
 | ------- |
@@ -133,4 +134,8 @@ solving a problem in a leetcode or platform
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0056-merge-intervals) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->

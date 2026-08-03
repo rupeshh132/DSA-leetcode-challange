@@ -30,6 +30,7 @@ solving a problem in a leetcode or platform
 | [0066-plus-one](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0068-text-justification) |
 | [0877-stone-game](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/1406-stone-game-iii) |
 ## Math
 |  |
 | ------- |
@@ -43,6 +44,7 @@ solving a problem in a leetcode or platform
 | [0069-sqrtx](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0070-climbing-stairs) |
 | [0877-stone-game](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/1406-stone-game-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -56,10 +58,12 @@ solving a problem in a leetcode or platform
 | [0064-minimum-path-sum](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0070-climbing-stairs) |
 | [0877-stone-game](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/1406-stone-game-iii) |
 ## Game Theory
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/1406-stone-game-iii) |
 ## Binary Search
 |  |
 | ------- |
@@ -177,4 +181,12 @@ solving a problem in a leetcode or platform
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0070-climbing-stairs) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->

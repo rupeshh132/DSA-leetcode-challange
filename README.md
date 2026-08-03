@@ -32,6 +32,7 @@ solving a problem in a leetcode or platform
 | [0043-multiply-strings](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0060-permutation-sequence) |
 | [0877-stone-game](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0877-stone-game) |
 ## Dynamic Programming
 |  |
@@ -112,6 +113,7 @@ solving a problem in a leetcode or platform
 | ------- |
 | [0044-wildcard-matching](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0060-permutation-sequence) |
 ## Sorting
 |  |
 | ------- |

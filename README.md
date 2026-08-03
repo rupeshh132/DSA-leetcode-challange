@@ -40,6 +40,7 @@ solving a problem in a leetcode or platform
 | [0062-unique-paths](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0069-sqrtx) |
 | [0877-stone-game](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0877-stone-game) |
 ## Dynamic Programming
 |  |
@@ -61,6 +62,7 @@ solving a problem in a leetcode or platform
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0069-sqrtx) |
 ## Hash Table
 |  |
 | ------- |
@@ -163,4 +165,8 @@ solving a problem in a leetcode or platform
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0067-add-binary) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->

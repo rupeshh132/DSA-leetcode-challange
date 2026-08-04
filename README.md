@@ -120,6 +120,7 @@ solving a problem in a leetcode or platform
 | [0079-word-search](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0090-subsets-ii) |
+| [0093-restore-ip-addresses](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0093-restore-ip-addresses) |
 ## String
 |  |
 | ------- |
@@ -134,6 +135,7 @@ solving a problem in a leetcode or platform
 | [0071-simplify-path](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0087-scramble-string) |
+| [0093-restore-ip-addresses](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0093-restore-ip-addresses) |
 ## Two Pointers
 |  |
 | ------- |

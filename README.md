@@ -67,6 +67,7 @@ solving a problem in a leetcode or platform
 | [0064-minimum-path-sum](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0085-maximal-rectangle) |
+| [0087-scramble-string](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0087-scramble-string) |
 | [0486-predict-the-winner](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/1406-stone-game-iii) |
@@ -127,6 +128,7 @@ solving a problem in a leetcode or platform
 | [0068-text-justification](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0079-word-search) |
+| [0087-scramble-string](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0087-scramble-string) |
 ## Two Pointers
 |  |
 | ------- |

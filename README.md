@@ -29,6 +29,7 @@ solving a problem in a leetcode or platform
 | [0064-minimum-path-sum](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0068-text-justification) |
+| [0486-predict-the-winner](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/1406-stone-game-iii) |
 | [3731-find-missing-elements](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/3731-find-missing-elements) |
@@ -44,6 +45,7 @@ solving a problem in a leetcode or platform
 | [0067-add-binary](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0070-climbing-stairs) |
+| [0486-predict-the-winner](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/1406-stone-game-iii) |
 ## Dynamic Programming
@@ -58,11 +60,13 @@ solving a problem in a leetcode or platform
 | [0063-unique-paths-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0070-climbing-stairs) |
+| [0486-predict-the-winner](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/1406-stone-game-iii) |
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/1406-stone-game-iii) |
 ## Binary Search
@@ -144,6 +148,7 @@ solving a problem in a leetcode or platform
 | [0044-wildcard-matching](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0060-permutation-sequence) |
+| [0486-predict-the-winner](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0486-predict-the-winner) |
 ## Sorting
 |  |
 | ------- |
@@ -187,9 +192,11 @@ solving a problem in a leetcode or platform
 ## Minimax
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->

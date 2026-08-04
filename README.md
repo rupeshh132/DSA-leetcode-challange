@@ -52,6 +52,7 @@ solving a problem in a leetcode or platform
 | [0067-add-binary](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0089-gray-code) |
 | [0486-predict-the-winner](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/1406-stone-game-iii) |
@@ -116,6 +117,7 @@ solving a problem in a leetcode or platform
 | [0052-n-queens-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0089-gray-code) |
 ## String
 |  |
 | ------- |
@@ -210,6 +212,7 @@ solving a problem in a leetcode or platform
 | ------- |
 | [0067-add-binary](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0089-gray-code) |
 ## Newton's Method
 |  |
 | ------- |

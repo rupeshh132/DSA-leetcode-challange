@@ -29,6 +29,7 @@ solving a problem in a leetcode or platform
 | [0064-minimum-path-sum](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0068-text-justification) |
+| [0078-subsets](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0078-subsets) |
 | [0486-predict-the-winner](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/1406-stone-game-iii) |
@@ -102,6 +103,7 @@ solving a problem in a leetcode or platform
 | [0047-permutations-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0052-n-queens-ii) |
+| [0078-subsets](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0078-subsets) |
 ## String
 |  |
 | ------- |
@@ -181,6 +183,7 @@ solving a problem in a leetcode or platform
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0078-subsets) |
 ## Newton's Method
 |  |
 | ------- |

@@ -36,6 +36,7 @@ solving a problem in a leetcode or platform
 | [0084-largest-rectangle-in-histogram](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0090-subsets-ii) |
 | [0486-predict-the-winner](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/1406-stone-game-iii) |
@@ -118,6 +119,7 @@ solving a problem in a leetcode or platform
 | [0078-subsets](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0089-gray-code) |
+| [0090-subsets-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0090-subsets-ii) |
 ## String
 |  |
 | ------- |
@@ -213,6 +215,7 @@ solving a problem in a leetcode or platform
 | [0067-add-binary](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0089-gray-code) |
+| [0090-subsets-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0090-subsets-ii) |
 ## Newton's Method
 |  |
 | ------- |

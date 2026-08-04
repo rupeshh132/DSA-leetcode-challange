@@ -71,6 +71,7 @@ solving a problem in a leetcode or platform
 | [0070-climbing-stairs](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0087-scramble-string) |
+| [0095-unique-binary-search-trees-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0095-unique-binary-search-trees-ii) |
 | [0486-predict-the-winner](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/1406-stone-game-iii) |
@@ -121,6 +122,7 @@ solving a problem in a leetcode or platform
 | [0089-gray-code](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0093-restore-ip-addresses) |
+| [0095-unique-binary-search-trees-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0095-unique-binary-search-trees-ii) |
 ## String
 |  |
 | ------- |
@@ -251,8 +253,14 @@ solving a problem in a leetcode or platform
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0095-unique-binary-search-trees-ii) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0095-unique-binary-search-trees-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->

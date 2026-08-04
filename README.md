@@ -129,6 +129,7 @@ solving a problem in a leetcode or platform
 | [0042-trapping-rain-water](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 ## Stack
 |  |
 | ------- |
@@ -183,6 +184,7 @@ solving a problem in a leetcode or platform
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0061-rotate-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 ## Combinatorics
 |  |
 | ------- |

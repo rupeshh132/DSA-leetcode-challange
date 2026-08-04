@@ -30,6 +30,7 @@ solving a problem in a leetcode or platform
 | [0066-plus-one](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0068-text-justification) |
 | [0078-subsets](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0079-word-search) |
 | [0486-predict-the-winner](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/1406-stone-game-iii) |
@@ -93,6 +94,7 @@ solving a problem in a leetcode or platform
 | [0059-spiral-matrix-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0079-word-search) |
 ## Backtracking
 |  |
 | ------- |
@@ -104,6 +106,7 @@ solving a problem in a leetcode or platform
 | [0051-n-queens](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0079-word-search) |
 ## String
 |  |
 | ------- |
@@ -116,6 +119,7 @@ solving a problem in a leetcode or platform
 | [0067-add-binary](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0071-simplify-path) |
+| [0079-word-search](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0079-word-search) |
 ## Two Pointers
 |  |
 | ------- |
@@ -202,4 +206,8 @@ solving a problem in a leetcode or platform
 | ------- |
 | [0486-predict-the-winner](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/1406-stone-game-iii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->

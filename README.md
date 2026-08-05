@@ -252,6 +252,7 @@ solving a problem in a leetcode or platform
 | [0098-validate-binary-search-tree](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0100-same-tree) |
+| [3310-remove-methods-from-project](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/3310-remove-methods-from-project) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -285,4 +286,9 @@ solving a problem in a leetcode or platform
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0100-same-tree) |
+| [3310-remove-methods-from-project](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/3310-remove-methods-from-project) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->

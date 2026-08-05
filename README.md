@@ -252,6 +252,7 @@ solving a problem in a leetcode or platform
 | [0098-validate-binary-search-tree](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0101-symmetric-tree) |
 | [3310-remove-methods-from-project](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/3310-remove-methods-from-project) |
 ## Range Minimum/Maximum Query
 |  |
@@ -266,6 +267,7 @@ solving a problem in a leetcode or platform
 | [0098-validate-binary-search-tree](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0101-symmetric-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -275,6 +277,7 @@ solving a problem in a leetcode or platform
 | [0098-validate-binary-search-tree](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0101-symmetric-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -286,6 +289,7 @@ solving a problem in a leetcode or platform
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0101-symmetric-tree) |
 | [3310-remove-methods-from-project](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |

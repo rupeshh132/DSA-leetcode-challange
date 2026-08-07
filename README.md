@@ -37,6 +37,7 @@ solving a problem in a leetcode or platform
 | [0085-maximal-rectangle](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0090-subsets-ii) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0486-predict-the-winner](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/1406-stone-game-iii) |
@@ -99,6 +100,7 @@ solving a problem in a leetcode or platform
 | [0037-sudoku-solver](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0049-group-anagrams) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [3731-find-missing-elements](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/3731-find-missing-elements) |
 ## Matrix
 |  |
@@ -208,6 +210,7 @@ solving a problem in a leetcode or platform
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0053-maximum-subarray) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Quicksort
 |  |
 | ------- |
@@ -277,6 +280,7 @@ solving a problem in a leetcode or platform
 | [0102-binary-tree-level-order-traversal](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -290,6 +294,7 @@ solving a problem in a leetcode or platform
 | [0102-binary-tree-level-order-traversal](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |

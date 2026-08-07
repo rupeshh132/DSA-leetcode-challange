@@ -59,6 +59,7 @@ solving a problem in a leetcode or platform
 | [0877-stone-game](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/1406-stone-game-iii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -127,6 +128,7 @@ solving a problem in a leetcode or platform
 | [0090-subsets-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0095-unique-binary-search-trees-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## String
 |  |
 | ------- |
@@ -143,6 +145,7 @@ solving a problem in a leetcode or platform
 | [0087-scramble-string](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0087-scramble-string) |
 | [0093-restore-ip-addresses](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0097-interleaving-string) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -180,6 +183,7 @@ solving a problem in a leetcode or platform
 | [0044-wildcard-matching](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0055-jump-game) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -310,4 +314,8 @@ solving a problem in a leetcode or platform
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/3345-smallest-divisible-digit-product-i) |
+## Number Theory
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/3348-smallest-divisible-digit-product-ii) |
 <!---LeetCode Topics End-->

@@ -82,6 +82,7 @@ solving a problem in a leetcode or platform
 | [0486-predict-the-winner](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Game Theory
 |  |
 | ------- |
@@ -148,6 +149,7 @@ solving a problem in a leetcode or platform
 | [0087-scramble-string](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0087-scramble-string) |
 | [0093-restore-ip-addresses](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0097-interleaving-string) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Two Pointers
 |  |
@@ -158,6 +160,7 @@ solving a problem in a leetcode or platform
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0088-merge-sorted-array) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Stack
 |  |
 | ------- |
@@ -186,6 +189,7 @@ solving a problem in a leetcode or platform
 | [0044-wildcard-matching](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0055-jump-game) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Recursion
 |  |

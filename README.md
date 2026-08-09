@@ -41,6 +41,7 @@ solving a problem in a leetcode or platform
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0486-predict-the-winner](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/1406-stone-game-iii) |
 | [3731-find-missing-elements](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/3731-find-missing-elements) |
 ## Math
@@ -59,6 +60,7 @@ solving a problem in a leetcode or platform
 | [0096-unique-binary-search-trees](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0096-unique-binary-search-trees) |
 | [0486-predict-the-winner](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/1406-stone-game-iii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -81,6 +83,7 @@ solving a problem in a leetcode or platform
 | [0097-interleaving-string](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0097-interleaving-string) |
 | [0486-predict-the-winner](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/1406-stone-game-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Game Theory
@@ -88,6 +91,7 @@ solving a problem in a leetcode or platform
 | ------- |
 | [0486-predict-the-winner](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/1406-stone-game-iii) |
 ## Binary Search
 |  |
@@ -254,11 +258,13 @@ solving a problem in a leetcode or platform
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0486-predict-the-winner) |
+| [1140-stone-game-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0486-predict-the-winner) |
+| [1140-stone-game-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/1406-stone-game-iii) |
 ## Depth-First Search
 |  |
@@ -343,4 +349,8 @@ solving a problem in a leetcode or platform
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->

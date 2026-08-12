@@ -288,6 +288,7 @@ solving a problem in a leetcode or platform
 | [0104-maximum-depth-of-binary-tree](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0112-path-sum) |
 | [3310-remove-methods-from-project](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/3310-remove-methods-from-project) |
 ## Range Minimum/Maximum Query
 |  |
@@ -312,6 +313,7 @@ solving a problem in a leetcode or platform
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0112-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
@@ -331,6 +333,7 @@ solving a problem in a leetcode or platform
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0112-path-sum) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -350,6 +353,7 @@ solving a problem in a leetcode or platform
 | [0104-maximum-depth-of-binary-tree](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0112-path-sum) |
 | [3310-remove-methods-from-project](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |

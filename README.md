@@ -43,6 +43,7 @@ solving a problem in a leetcode or platform
 | [0877-stone-game](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/1406-stone-game-iii) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/3731-find-missing-elements) |
 ## Math
@@ -111,6 +112,7 @@ solving a problem in a leetcode or platform
 | [0041-first-missing-positive](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0049-group-anagrams) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/3731-find-missing-elements) |
 ## Matrix
@@ -373,4 +375,8 @@ solving a problem in a leetcode or platform
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/1510-stone-game-iv) |
+## Sliding Window
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->

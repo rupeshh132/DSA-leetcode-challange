@@ -49,6 +49,7 @@ solving a problem in a leetcode or platform
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/3731-find-missing-elements) |
@@ -72,6 +73,7 @@ solving a problem in a leetcode or platform
 | [1406-stone-game-iii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/2029-stone-game-ix) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Dynamic Programming
@@ -112,6 +114,7 @@ solving a problem in a leetcode or platform
 | [0035-search-insert-position](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Hash Table
 |  |
 | ------- |
@@ -264,6 +267,7 @@ solving a problem in a leetcode or platform
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0062-unique-paths) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -272,6 +276,7 @@ solving a problem in a leetcode or platform
 | [0089-gray-code](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0090-subsets-ii) |
 | [1386-cinema-seat-allocation](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/1386-cinema-seat-allocation) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Newton's Method
 |  |
@@ -390,6 +395,7 @@ solving a problem in a leetcode or platform
 ## Number Theory
 |  |
 | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Prefix Sum
 |  |

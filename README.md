@@ -192,6 +192,7 @@ solving a problem in a leetcode or platform
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Two Pointers
 |  |
 | ------- |
@@ -202,6 +203,7 @@ solving a problem in a leetcode or platform
 | [0086-partition-list](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0088-merge-sorted-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Stack
 |  |
 | ------- |
@@ -410,6 +412,7 @@ solving a problem in a leetcode or platform
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Number Theory
 |  |
 | ------- |

@@ -284,6 +284,7 @@ solving a problem in a leetcode or platform
 | [0086-partition-list](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0092-reverse-linked-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Combinatorics
 |  |
 | ------- |

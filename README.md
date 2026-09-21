@@ -40,6 +40,7 @@ solving a problem in a leetcode or platform
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0119-pascals-triangle-ii) |
 | [0486-predict-the-winner](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/1140-stone-game-ii) |
@@ -103,6 +104,7 @@ solving a problem in a leetcode or platform
 | [0097-interleaving-string](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0119-pascals-triangle-ii) |
 | [0486-predict-the-winner](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/1140-stone-game-ii) |

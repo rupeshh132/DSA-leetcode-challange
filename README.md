@@ -113,6 +113,7 @@ solving a problem in a leetcode or platform
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0486-predict-the-winner](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/1140-stone-game-ii) |
@@ -362,6 +363,7 @@ solving a problem in a leetcode or platform
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0124-binary-tree-maximum-path-sum) |
 | [3310-remove-methods-from-project](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/3310-remove-methods-from-project) |
 ## Range Minimum/Maximum Query
 |  |
@@ -391,6 +393,7 @@ solving a problem in a leetcode or platform
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
@@ -415,6 +418,7 @@ solving a problem in a leetcode or platform
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -490,4 +494,8 @@ solving a problem in a leetcode or platform
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->

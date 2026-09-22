@@ -148,6 +148,7 @@ solving a problem in a leetcode or platform
 | [0049-group-anagrams](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0049-group-anagrams) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0127-word-ladder) |
 | [1386-cinema-seat-allocation](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -206,6 +207,7 @@ solving a problem in a leetcode or platform
 | [0115-distinct-subsequences](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0127-word-ladder) |
 | [1927-sum-game](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -447,6 +449,7 @@ solving a problem in a leetcode or platform
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0126-word-ladder-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0127-word-ladder) |
 | [3310-remove-methods-from-project](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
@@ -508,4 +511,5 @@ solving a problem in a leetcode or platform
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->

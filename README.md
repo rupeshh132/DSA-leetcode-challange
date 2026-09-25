@@ -46,6 +46,7 @@ solving a problem in a leetcode or platform
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0130-surrounded-regions) |
 | [0486-predict-the-winner](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/1140-stone-game-ii) |
@@ -171,6 +172,7 @@ solving a problem in a leetcode or platform
 | [0064-minimum-path-sum](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0085-maximal-rectangle) |
+| [0130-surrounded-regions](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0130-surrounded-regions) |
 ## Backtracking
 |  |
 | ------- |
@@ -374,6 +376,7 @@ solving a problem in a leetcode or platform
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0130-surrounded-regions](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0130-surrounded-regions) |
 | [3310-remove-methods-from-project](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/3310-remove-methods-from-project) |
 ## Range Minimum/Maximum Query
 |  |
@@ -455,6 +458,7 @@ solving a problem in a leetcode or platform
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0126-word-ladder-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0127-word-ladder) |
+| [0130-surrounded-regions](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0130-surrounded-regions) |
 | [3310-remove-methods-from-project](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
@@ -508,6 +512,7 @@ solving a problem in a leetcode or platform
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0130-surrounded-regions) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## DP on Trees
 |  |

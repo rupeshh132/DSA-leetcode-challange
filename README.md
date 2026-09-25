@@ -373,6 +373,7 @@ solving a problem in a leetcode or platform
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0129-sum-root-to-leaf-numbers) |
 | [3310-remove-methods-from-project](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/3310-remove-methods-from-project) |
 ## Range Minimum/Maximum Query
 |  |
@@ -403,6 +404,7 @@ solving a problem in a leetcode or platform
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Binary Tree
 |  |
 | ------- |
@@ -428,6 +430,7 @@ solving a problem in a leetcode or platform
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Binary Search Tree
 |  |
 | ------- |

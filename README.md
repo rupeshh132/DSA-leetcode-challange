@@ -48,6 +48,7 @@ solving a problem in a leetcode or platform
 | [0128-longest-consecutive-sequence](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0135-candy) |
 | [0486-predict-the-winner](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/1140-stone-game-ii) |
@@ -271,6 +272,7 @@ solving a problem in a leetcode or platform
 | [0055-jump-game](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0135-candy) |
 | [1386-cinema-seat-allocation](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/2029-stone-game-ix) |

@@ -49,6 +49,7 @@ solving a problem in a leetcode or platform
 | [0130-surrounded-regions](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0136-single-number) |
 | [0486-predict-the-winner](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/1140-stone-game-ii) |
@@ -338,6 +339,7 @@ solving a problem in a leetcode or platform
 | [0078-subsets](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0136-single-number) |
 | [1386-cinema-seat-allocation](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |

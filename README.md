@@ -52,6 +52,7 @@ solving a problem in a leetcode or platform
 | [0136-single-number](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0140-word-break-ii) |
 | [0486-predict-the-winner](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/1140-stone-game-ii) |
@@ -124,6 +125,7 @@ solving a problem in a leetcode or platform
 | [0131-palindrome-partitioning](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0140-word-break-ii) |
 | [0486-predict-the-winner](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/1140-stone-game-ii) |
@@ -162,6 +164,7 @@ solving a problem in a leetcode or platform
 | [0128-longest-consecutive-sequence](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0140-word-break-ii) |
 | [1386-cinema-seat-allocation](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -202,6 +205,7 @@ solving a problem in a leetcode or platform
 | [0113-path-sum-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0113-path-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0140-word-break-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## String
 |  |
@@ -226,6 +230,7 @@ solving a problem in a leetcode or platform
 | [0131-palindrome-partitioning](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0140-word-break-ii) |
 | [1927-sum-game](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -358,6 +363,7 @@ solving a problem in a leetcode or platform
 | ------- |
 | [0070-climbing-stairs](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0140-word-break-ii) |
 ## Minimax
 |  |
 | ------- |
@@ -549,6 +555,7 @@ solving a problem in a leetcode or platform
 |  |
 | ------- |
 | [0139-word-break](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0140-word-break-ii) |
 ## Brute-Force Search
 |  |
 | ------- |

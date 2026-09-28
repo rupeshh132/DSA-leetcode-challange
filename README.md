@@ -253,6 +253,7 @@ solving a problem in a leetcode or platform
 | [0125-valid-palindrome](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0143-reorder-list) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Stack
@@ -264,6 +265,7 @@ solving a problem in a leetcode or platform
 | [0085-maximal-rectangle](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0143-reorder-list](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0143-reorder-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -301,6 +303,7 @@ solving a problem in a leetcode or platform
 | [0044-wildcard-matching](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0060-permutation-sequence) |
+| [0143-reorder-list](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0143-reorder-list) |
 | [0486-predict-the-winner](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0486-predict-the-winner) |
 ## Sorting
 |  |
@@ -342,6 +345,7 @@ solving a problem in a leetcode or platform
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0141-linked-list-cycle](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0143-reorder-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Combinatorics
 |  |

@@ -166,6 +166,7 @@ solving a problem in a leetcode or platform
 | [0139-word-break](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0142-linked-list-cycle-ii) |
 | [1386-cinema-seat-allocation](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -251,6 +252,7 @@ solving a problem in a leetcode or platform
 | [0088-merge-sorted-array](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0142-linked-list-cycle-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Stack
@@ -339,6 +341,7 @@ solving a problem in a leetcode or platform
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0141-linked-list-cycle](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0142-linked-list-cycle-ii) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Combinatorics
 |  |
@@ -567,4 +570,5 @@ solving a problem in a leetcode or platform
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->

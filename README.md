@@ -167,6 +167,7 @@ solving a problem in a leetcode or platform
 | [0140-word-break-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0146-lru-cache) |
 | [1386-cinema-seat-allocation](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -348,6 +349,7 @@ solving a problem in a leetcode or platform
 | [0141-linked-list-cycle](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0146-lru-cache) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Combinatorics
 |  |
@@ -583,4 +585,12 @@ solving a problem in a leetcode or platform
 | ------- |
 | [0141-linked-list-cycle](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0142-linked-list-cycle-ii) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->

@@ -255,6 +255,7 @@ solving a problem in a leetcode or platform
 | [0141-linked-list-cycle](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0148-sort-list) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Stack
@@ -316,6 +317,7 @@ solving a problem in a leetcode or platform
 | [0056-merge-intervals](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0148-sort-list) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/3731-find-missing-elements) |
@@ -331,6 +333,7 @@ solving a problem in a leetcode or platform
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0148-sort-list) |
 ## Quicksort
 |  |
 | ------- |
@@ -352,6 +355,7 @@ solving a problem in a leetcode or platform
 | [0143-reorder-list](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0148-sort-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Combinatorics
 |  |
@@ -595,4 +599,8 @@ solving a problem in a leetcode or platform
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0146-lru-cache) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->

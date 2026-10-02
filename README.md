@@ -53,6 +53,7 @@ solving a problem in a leetcode or platform
 | [0137-single-number-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0140-word-break-ii) |
+| [0149-max-points-on-a-line](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0149-max-points-on-a-line) |
 | [0486-predict-the-winner](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/1140-stone-game-ii) |
@@ -85,6 +86,7 @@ solving a problem in a leetcode or platform
 | [0070-climbing-stairs](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0096-unique-binary-search-trees) |
+| [0149-max-points-on-a-line](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0149-max-points-on-a-line) |
 | [0486-predict-the-winner](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/1140-stone-game-ii) |
@@ -168,6 +170,7 @@ solving a problem in a leetcode or platform
 | [0141-linked-list-cycle](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0146-lru-cache) |
+| [0149-max-points-on-a-line](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0149-max-points-on-a-line) |
 | [1386-cinema-seat-allocation](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -603,4 +606,16 @@ solving a problem in a leetcode or platform
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0148-sort-list) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0149-max-points-on-a-line) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0149-max-points-on-a-line) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->

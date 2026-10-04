@@ -55,6 +55,7 @@ solving a problem in a leetcode or platform
 | [0140-word-break-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0152-maximum-product-subarray) |
 | [0486-predict-the-winner](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/1140-stone-game-ii) |
@@ -130,6 +131,7 @@ solving a problem in a leetcode or platform
 | [0132-palindrome-partitioning-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0140-word-break-ii) |
+| [0152-maximum-product-subarray](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0152-maximum-product-subarray) |
 | [0486-predict-the-winner](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/1140-stone-game-ii) |

@@ -179,6 +179,7 @@ solving a problem in a leetcode or platform
 | [0142-linked-list-cycle-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0149-max-points-on-a-line) |
+| [0160-intersection-of-two-linked-lists](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0160-intersection-of-two-linked-lists) |
 | [1386-cinema-seat-allocation](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -269,6 +270,7 @@ solving a problem in a leetcode or platform
 | [0143-reorder-list](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0160-intersection-of-two-linked-lists) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Stack
@@ -371,6 +373,7 @@ solving a problem in a leetcode or platform
 | [0146-lru-cache](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0160-intersection-of-two-linked-lists) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Combinatorics
 |  |

@@ -58,6 +58,7 @@ solving a problem in a leetcode or platform
 | [0152-maximum-product-subarray](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0162-find-peak-element) |
 | [0486-predict-the-winner](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/1140-stone-game-ii) |
@@ -160,6 +161,7 @@ solving a problem in a leetcode or platform
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0162-find-peak-element) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Hash Table
 |  |

@@ -60,6 +60,7 @@ solving a problem in a leetcode or platform
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0164-maximum-gap) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0486-predict-the-winner](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/1140-stone-game-ii) |
@@ -164,6 +165,7 @@ solving a problem in a leetcode or platform
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Hash Table
 |  |
@@ -279,6 +281,7 @@ solving a problem in a leetcode or platform
 | [0151-reverse-words-in-a-string](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0165-compare-version-numbers) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Stack

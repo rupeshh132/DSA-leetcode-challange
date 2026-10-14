@@ -61,6 +61,7 @@ solving a problem in a leetcode or platform
 | [0162-find-peak-element](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0169-majority-element) |
 | [0486-predict-the-winner](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/1140-stone-game-ii) |
@@ -188,6 +189,7 @@ solving a problem in a leetcode or platform
 | [0149-max-points-on-a-line](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0166-fraction-to-recurring-decimal) |
+| [0169-majority-element](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0169-majority-element) |
 | [1386-cinema-seat-allocation](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -349,6 +351,7 @@ solving a problem in a leetcode or platform
 | [0147-insertion-sort-list](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0169-majority-element) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/3731-find-missing-elements) |
@@ -365,6 +368,7 @@ solving a problem in a leetcode or platform
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0169-majority-element) |
 ## Quicksort
 |  |
 | ------- |
@@ -592,6 +596,7 @@ solving a problem in a leetcode or platform
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0169-majority-element) |
 | [2029-stone-game-ix](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/2029-stone-game-ix) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Union-Find
@@ -660,4 +665,8 @@ solving a problem in a leetcode or platform
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0164-maximum-gap) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

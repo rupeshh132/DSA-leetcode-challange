@@ -98,6 +98,7 @@ solving a problem in a leetcode or platform
 | [0150-evaluate-reverse-polish-notation](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0168-excel-sheet-column-title) |
+| [0172-factorial-trailing-zeroes](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0172-factorial-trailing-zeroes) |
 | [0486-predict-the-winner](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/1140-stone-game-ii) |

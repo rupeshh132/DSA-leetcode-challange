@@ -679,4 +679,8 @@ solving a problem in a leetcode or platform
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0173-binary-search-tree-iterator) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->

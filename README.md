@@ -683,4 +683,5 @@ solving a problem in a leetcode or platform
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0175-combine-two-tables) |
+| [0176-second-highest-salary](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->

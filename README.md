@@ -192,6 +192,7 @@ solving a problem in a leetcode or platform
 | [0160-intersection-of-two-linked-lists](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0169-majority-element) |
+| [0187-repeated-dna-sequences](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0187-repeated-dna-sequences) |
 | [1386-cinema-seat-allocation](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -263,6 +264,7 @@ solving a problem in a leetcode or platform
 | [0166-fraction-to-recurring-decimal](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0179-largest-number) |
+| [0187-repeated-dna-sequences](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0187-repeated-dna-sequences) |
 | [1927-sum-game](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -413,6 +415,7 @@ solving a problem in a leetcode or platform
 | [0090-subsets-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0137-single-number-ii) |
+| [0187-repeated-dna-sequences](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0187-repeated-dna-sequences) |
 | [1386-cinema-seat-allocation](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -591,6 +594,7 @@ solving a problem in a leetcode or platform
 ## Sliding Window
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0187-repeated-dna-sequences) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -696,4 +700,20 @@ solving a problem in a leetcode or platform
 | [0183-customers-who-never-order](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0185-department-top-three-salaries) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0187-repeated-dna-sequences) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/rupeshh132/DSA-leetcode-challange/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
